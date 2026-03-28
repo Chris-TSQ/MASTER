@@ -1,88 +1,80 @@
 # MASTER
 # Christine Tan
+
 Software Engineer (Full Stack + Data/AI)
 
-## Experience
-- Full Stack Engineer – Fintech (SEA banks: Indonesia, Thailand)
-- Data Analyst – Microsoft China (Python, Data Pipelines, AI)
+Experience
+Full Stack Engineer – Fintech (SEA banks: Indonesia, Thailand)
+Data Analyst – Microsoft China (Python, Data Pipelines, Machine Learning)
+Expertise
+Backend Systems & APIs
+Data Engineering & Machine Learning
+Scalable Web Applications
+Financial Platforms
+Featured Projects
+🔹 Fintech Analytics Platform
 
-## Focus Areas
-- Scalable backend systems
-- Financial platforms
-- Data engineering & machine learning
-
----
-
-## Featured Projects
-
-### 1. Fintech Analytics Platform
-Production-grade financial system for real-time transaction monitoring  
-Tech: React, Node.js, PostgreSQL, AWS  
+Production-grade financial system for real-time transaction monitoring
+Tech: React, Node.js, PostgreSQL, AWS
 👉 https://github.com/chris-tsq/fintech-analytics-platform
 
----
+🔹 Distributed Transaction System (Final Year Project)
 
-### 2. Distributed Transaction System (Final Year Project)
-High-performance distributed system with optimized data flow  
-Tech: Java, Distributed Systems, Docker  
+High-performance distributed system with optimized data flow
+Tech: Java, Docker, Distributed Systems
 👉 https://github.com/chris-tsq/distributed-transaction-system
 
----
+🔹 Microsoft Data AI Pipeline
 
-### 3. Microsoft Data AI Pipeline
-Data cleaning, transformation, and ML workflow system  
-Tech: Python, Pandas, Scikit-learn  
+End-to-end data pipeline with ML workflow (cleaning, transformation, modeling)
+Tech: Python, Pandas, Scikit-learn
 👉 https://github.com/chris-tsq/microsoft-data-ai-pipeline
 
----
+🔹 Scalable Backend API System
 
-### 4. Scalable Backend API System
-High-performance backend with caching and optimization  
-Tech: Node.js, Redis, PostgreSQL  
+High-performance backend with caching and optimization
+Tech: Node.js, Redis, PostgreSQL
 👉 https://github.com/chris-tsq/scalable-backend-api-system
 
----
+🔹 Product UI Dashboard
 
-### 5. Product UI Dashboard
-Frontend-focused project with strong UX design  
-Tech: React, Tailwind  
+Frontend-focused project with strong UX design
+Tech: React, Tailwind
 👉 https://github.com/chris-tsq/product-ui-dashboard
 
----
+🔹 Accessible Communication App
 
-## Project Categories
+Voice + keyboard-based system for visually impaired users
+👉 https://github.com/yourname/accessible-communication-app
 
-### Data & AI Projects
-- Data cleaning, visualization, ML pipelines  
+🔹 Water Theme Park Website
+
+Full-stack responsive web application
+👉 https://github.com/yourname/water-theme-park
+
+Project Categories
+Data & AI
+Data cleaning, visualization, ML pipelines
 📁 /projects/data-ai/
-
-### Machine Learning Projects
-- Prediction models, classification systems  
+Machine Learning
+Prediction models, classification systems
 📁 /projects/machine-learning/
-
-### Full Stack Applications
-- Web apps and mobile systems  
+Full Stack Applications
+Web and mobile applications
 📁 /projects/fullstack-apps/
-
-### Systems & Backend
-- APIs, distributed systems  
+Systems & Backend
+APIs, distributed systems
 📁 /projects/systems/
+Additional Work
+Final Year Project
 
----
-
-## Final Year Project
-Includes architecture diagrams and report  
+Includes architecture diagrams and full report
 📁 /final-year-project/
 
----
-
-## Technical Writing
-- Case studies
-- System design explanations  
+Technical Writing
+Case studies
+System design explanations
 📁 /docs/
-
----
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/christan12345678/
-- Email: christine.tsq@gmail.com
+Contact
+LinkedIn: https://www.linkedin.com/in/christan12345678/
+Email: christine.tsq@gmail.com
