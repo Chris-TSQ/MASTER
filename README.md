@@ -14,6 +14,25 @@ Financial Platforms
 Featured Projects
 🔹 Fintech Analytics Platform
 
+# Portfolio
+
+This repository contains my projects.
+
+## Categories
+
+### Data & AI
+- Microsoft Data Pipeline
+
+### Full Stack
+- Fintech Platform
+- Water Theme Park
+
+### Systems
+- Distributed System
+
+### Accessibility
+- Communication App
+
 Production-grade financial system for real-time transaction monitoring
 Tech: React, Node.js, PostgreSQL, AWS
 👉 https://github.com/chris-tsq/fintech-analytics-platform
